@@ -53,4 +53,7 @@ gitbook serve
 
 在此对仓库的开发和维护者表示感谢，同时也感谢很多在本项目开发中一起讨论和勘误的老师和同学们。
 
+### tests
+- https://github.com/chyyuu/rCore_tutorial_tests
+
 <!-- TODO LICENSE -->
